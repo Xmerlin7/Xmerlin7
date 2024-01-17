@@ -29,7 +29,8 @@
 
 ###
 
-# 🔗Feel free to contact me 🌐:
+🔗Feel free to contact me 🌐: 
+</b>
 <div align="left">
   <a href="https://www.twitch.tv/xmerlinx7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
