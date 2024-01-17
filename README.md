@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmerlin&label=Profile%20views&color=0e75b6&style=flat" alt="xmerlin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmerlin" alt="xmerlin" /></a> </p>
-
 - 🔭 I’m currently working on **Linux & ROS**
+
+- 👯 I’m looking to collaborate on **EVER v & FSUK 2024**
 
 - 📫 How to reach me **seif.allah.a.eldarageely@gmail.com**
 
