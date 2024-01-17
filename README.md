@@ -42,7 +42,7 @@
 
 ##
 
-🔗Feel free to contact me 🌐:
+## 🔗Feel free to contact me 🌐:
 </b>
 
 <div align="left">
