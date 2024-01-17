@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋! I'm Seif, a passionate Embedded Software developer</h2>
+<h2 align="left">Hello there 👋! I'm Seif, a Passionate Embedded Software developer</h2>
 
 ###
 
