@@ -18,10 +18,10 @@
 ###
 
 <p align="center" style="margin-bottom: 10mm;">
-  <img height="150" src="https://media.giphy.com/media/ECbxU61G9sLyQVPtqP/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/ECbxU61G9sLyQVPtqP/giphy.gif" />
 </p>
 
-##
+## Some Skills and Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -40,7 +40,7 @@
   <img width="20" />
 </div>
 
-###
+##
 
 🔗Feel free to contact me 🌐:
 </b>
