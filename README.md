@@ -15,7 +15,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmerlin7&theme=radical" alt="xmerlin7" />
 </p>
 
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/ECbxU61G9sLyQVPtqP/giphy.gif"  />
@@ -41,8 +40,9 @@
 
 ###
 
-🔗Feel free to contact me 🌐: 
+🔗Feel free to contact me 🌐:
 </b>
+
 <div align="left">
   <a href="https://www.twitch.tv/xmerlinx7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -64,13 +64,14 @@
 ###
 
 ##
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmerlin7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-### 
+###
 
 ---
 
