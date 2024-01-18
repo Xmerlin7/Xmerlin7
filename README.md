@@ -21,6 +21,17 @@
   <img height="180" src="https://media.giphy.com/media/ECbxU61G9sLyQVPtqP/giphy.gif" />
 </p>
 
+##
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmerlin7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
 ## Some Skills and Technologies
 
 <div align="left">
@@ -39,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="20" />
 </div>
+
+
 
 ##
 
@@ -61,16 +74,6 @@
   <a href="https://www.linkedin.com/in/seif-eldarageely-a27125227/?trk=public-profile-join-page" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-##
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmerlin7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
