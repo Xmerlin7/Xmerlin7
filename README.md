@@ -32,7 +32,6 @@
 
 ###
 
-
 ## Some Skills and Technologies
 
 <div align="left">
@@ -52,11 +51,10 @@
   <img width="20" />
 </div>
 
-
-
 ##
 
 ## 🔗Feel free to contact me 🌐:
+
 </b>
 
 <div align="left">
