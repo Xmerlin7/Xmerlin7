@@ -9,7 +9,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xmerlin7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
-https://media.giphy.com/media//giphy.gif
+
 ###
 
 <p align="center">
@@ -19,7 +19,7 @@ https://media.giphy.com/media//giphy.gif
 ###
 
 <p align="center" style="margin-bottom: 10mm;">
-  <img height="180" src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" />
 </p>
 
 ##
