@@ -1,7 +1,6 @@
 <h2 align="left">Hello there 👋! I'm Seif, a Passionate Embedded Software developer</h2>
 
 ###
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmerlin&label=Profile%20views&color=0e75b6&style=flat" alt="xmerlin" /> </p>
 
 <div align="center">
