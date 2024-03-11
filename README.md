@@ -67,8 +67,8 @@
   </a>
   <a href="https://codeforces.com/profile/xmerlin7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="35" <img width="70" alt=xmerlin7"  />
-  </a>
-  <a href="https://www.linkedin.com/in/seif-eldarageely-a27125227/?trk=public-profile-join-page" target="_blank">
+  </a> 
+  <a href="https://www.linkedin.com/in/seif-ahmed-a27125227/?trk=public-profile-join-page" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
