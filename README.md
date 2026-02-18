@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xmerlin7/Xmerlin7/main/banner.png" width="100%" alt="Seif Banner" />
-</p>
+<img src="https://raw.githubusercontent.com/Xmerlin7/Xmerlin7/main/banner.png" width="100%" alt="" />
 
 <h1 align="center">Hello there 👋!</h1>
 <h2 align="center">I'm Seif, a Passionate <span style="color:#00ff9d;">Full Stack</span> Software Engineer.</h2>
